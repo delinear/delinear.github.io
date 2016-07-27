@@ -1,6 +1,6 @@
 // Typography
 //
-$base-font-family: 'Proxima Nova', Arial, sans-serif;
+$base-font-family: 'Montserrat', Arial, sans-serif;
 $serif-font-family: "Georgia", serif;
 $heading-font-family: $base-font-family;
 $fonts-path: '../fonts/';
@@ -30,9 +30,9 @@ $base-z-index: 0;
 
 // Colors
 //
-$primary-color: #3cc76a;
-$white-color: #fff;
-$black-color: #000;
+$primary-color: #4b3d6b;
+$white-color: #eee;
+$black-color: #111;
 $blue-color: #477dca;
 $dark-gray-color: lighten($black-color, 25%);
 $medium-gray-color: lighten($dark-gray-color, 20%);
